@@ -47,3 +47,5 @@ Enter a prompt, choose options, and click **Generate**.
 ## Contributing
 
 GitHub repo: https://github.com/oopshnik/imagine
+
+
