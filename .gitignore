@@ -8,4 +8,11 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Generated images
 *.png
+*.jpg
+
+# Gradio stuffs
+.gradio/
+*.pem
